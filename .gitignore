@@ -24,3 +24,4 @@ Thumbs.db
 # Other files to ignore (just in case)
 .gradle
 gradle
+.idea
