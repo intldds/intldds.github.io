@@ -15,8 +15,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: https://twitter.com/_miguelemos
-    github:  https://github.com/miguelemos
+    twitter: _miguelemos
+    github:  miguelemos
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
