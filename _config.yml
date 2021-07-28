@@ -1,11 +1,10 @@
-title: Your awesome title
+title: Scribblings by Miguel
 author:
-  name: GitHub User
-  email: your-email@domain.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  # name: @miguelemos
+  # email: miguelemospereira@gmail.com
+# description: > # this means to ignore newlines until "show_excerpts:"
+  A blog about cryptoeconomics, mechanism design, Ethereum and everything in-between
+
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,8 +15,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: https://twitter.com/_miguelemos
+    github:  https://github.com/miguelemos
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
