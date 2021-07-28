@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 My name is Miguel and I love to learn and to build (especially on Ethereum/web3).
 
 I think the whole DeFi movement is really great, but this blog will be more about the
@@ -16,13 +22,3 @@ or if it's (somehow) useful to you, feel free to donate me any amount that you w
 to my Ethereum address @ miguelemos.eth - that would make me extremely happy!
 
 Contact: [miguelemospereira@gmail.com](miguelemospereira@gmail.com)
-
----
-
-To delete soon
-
----
-layout: page
-title: About
-permalink: /about/
----
