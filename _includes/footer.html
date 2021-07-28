@@ -6,7 +6,7 @@
     <div class="footer-col-wrapper">
       <div class="footer-col">
 
-        <!-- Subscribe button -->
+        <!-- Remove "Subscribe" button from footer
         <p class="feed-subscribe">
           <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
@@ -14,6 +14,7 @@
             </svg><span></span>
           </a>
         </p>
+        -->
 
       {%- if site.author %}
         <ul class="contact-list">
@@ -27,7 +28,7 @@
       {%- endif %}
       </div>
 
-      <!-- Remove site description from footer
+      <!-- Remove "site description" from footer
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
