@@ -11,14 +11,13 @@ I think the whole DeFi movement is really great, but this blog will be more abou
 such as decentralized governance, public goods and mechanism design.
 
 Additionally, I might do some tutorials on zero knowledge proofs (ZKPs) because they are
-awesome!
+really awesome!
 
-I enjoy writing about things because it helps me to understand better some concepts.
+I enjoy writing about things because it [helps me to understand them better](https://twitter.com/benjaminion_xyz/status/1368267425309933573).
 
 ---
 
-I'm writing on this blog for the fun of it only, so if you like what you're reading
-or if it's (somehow) useful to you, feel free to donate me any amount that you wish
-to my Ethereum address @ miguelemos.eth - that would make me extremely happy!
+If you like what you're reading or if you consider it useful, feel free to donate me any amount
+to my ENS address @ *miguelemos.eth* - the tinniest donation would make me extremely happy!
 
 Contact: [miguelemospereira@gmail.com](miguelemospereira@gmail.com)
