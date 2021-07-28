@@ -1,4 +1,4 @@
-<!-- Comment
+<!-- Comment everything
 
 ## HEAD
 
