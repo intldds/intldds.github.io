@@ -13,7 +13,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 minima:
   date_format: "%b %-d, %Y"
 
-  # generate social links in footer
+  # generate social links in footer (no handlers)
   social_links:
     twitter: _miguelemos
     github:  miguelemos
