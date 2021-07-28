@@ -5,13 +5,16 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
+
+        <!-- Subscribe button -->
         <p class="feed-subscribe">
           <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
               <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
+            </svg><span></span>
           </a>
         </p>
+
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
@@ -23,9 +26,13 @@
         </ul>
       {%- endif %}
       </div>
+
+      <!-- Remove site description from footer
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
+      -->
+
     </div>
 
     <div class="social-links">
@@ -35,3 +42,4 @@
   </div>
 
 </footer>
+<!-- This is a comment -->
