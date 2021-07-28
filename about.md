@@ -18,6 +18,6 @@ I enjoy writing about things because it [helps me to understand them better](htt
 ---
 
 If you like what you're reading or if you consider it useful, feel free to donate me any amount
-to my ENS address @ *miguelemos.eth* - the tinniest donation would make me extremely happy!
+to my ENS address @ *miguelemos.eth* - the tiniest donation would make me extremely happy!
 
 Contact: [miguelemospereira@gmail.com](miguelemospereira@gmail.com)
