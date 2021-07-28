@@ -1,5 +1,7 @@
 @charset "utf-8";
 
+// HEX colors
+
 $brand-color:           #828282 !default;
 $brand-color-light:     lighten($brand-color, 40%) !default;
 $brand-color-dark:      darken($brand-color, 25%) !default;
@@ -10,8 +12,8 @@ $text-color:            #111111 !default;
 $background-color:      #fdfdfd !default;
 $code-background-color: #eeeeff !default;
 
-$link-base-color:       #2a7ae2 !default;
-$link-visited-color:    darken($link-base-color, 15%) !default;
+$link-base-color:       #5086cc !default;
+$link-visited-color:    #5086cc !default;
 $link-hover-color:      $text-color !default;
 
 $border-color-01:       $brand-color-light !default;
