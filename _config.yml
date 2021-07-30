@@ -1,11 +1,8 @@
 title: Scribblings by Miguel
-sub-title: A blog about cryptoeconomics, mechanism design, Ethereum and everything in-between
 author:
   # name: @miguelemos
   # email: miguelemospereira@gmail.com
-# description: > # this means to ignore newlines until "show_excerpts:"
-  A blog about cryptoeconomics, mechanism design, Ethereum and everything in-between
-
+  # description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
