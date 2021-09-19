@@ -240,6 +240,17 @@
   margin-bottom: $spacing-unit;
 }
 
+/**
+ * Back to homepage hyperlink, aligned to the right
+ */
+.homepage {
+  float: right;
+  width: 100px;
+  // height: 30px;
+  // background: #000000;
+  margin-left: auto;
+}
+
 .post-title,
 .post-content h1 {
   @include relative-font-size(2);
