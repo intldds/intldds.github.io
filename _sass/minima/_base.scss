@@ -158,8 +158,11 @@ blockquote {
   color: $brand-color;
   border-left: 4px solid $border-color-01;
   padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
+  @include relative-font-size(0.975);
   font-style: italic;
+
+  margin-top: 1.8em;
+  margin-bottom: 1.8em;
 
   > :last-child {
     margin-bottom: 0;
