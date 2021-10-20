@@ -20,7 +20,8 @@ cryptography into real-world cryptography](https://www.reddit.com/r/ethereum/com
 
 I enjoy writing about things because it [helps me to understand them better](https://twitter.com/benjaminion_xyz/status/1368267425309933573).
 
-If you like what you're reading or if you consider it useful, feel free to donate me any amount
-to my ENS address @ *miguelemos.eth* - the tiniest donation would make me extremely happy!
+Also, I very much believe in the power of innovation. Rational optimism is the way out. Having a vision of where we currently stand and where
+we can go from here is important. However, vision without action is useless. But action without vision is directionless and
+feeble.
 
 Contact: [miguelemospereira@gmail.com](mailto:miguelemospereira@gmail.com)
