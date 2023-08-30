@@ -1,6 +1,6 @@
 # About this blog
 
-"Scribblings by Miguel" is a [personal blog](https://intldds.github.io/) in which I'll cover many topics related to Ethereum and blockchain 
+"Scribblings by Waz" is a [personal blog](https://intldds.github.io/) in which I'll cover many topics related to Ethereum and blockchain 
 technology, with a special emphasis on cryptoeconomics, mechanism design, smart contract security and
 zero-knowledge proofs (ZKPs).
 
