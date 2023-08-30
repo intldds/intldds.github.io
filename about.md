@@ -23,4 +23,4 @@ I enjoy writing about things because it [helps me to understand them better](htt
 Also, I believe that rational optimism is the way out. Having a vision 
 is important. However, vision without action is useless. But action without vision is directionless.
 
-Contact: [miguelemospereira@gmail.com](mailto:miguelemospereira@gmail.com)
+Contact: [hello@wazowski.xyz](mailto:hello@wazowski.xyz)
