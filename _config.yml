@@ -1,4 +1,4 @@
-title: Scribblings by Miguel
+title: Scribblings by Waz
 subtitle: Testing
 author:
   # name: @miguelemos
@@ -15,8 +15,8 @@ minima:
 
   # generate social links in footer (no handlers)
   social_links:
-    twitter: _miguelemos
-    github:  miguelemos
+    twitter: 0xwazwski
+    github:  intldds
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
