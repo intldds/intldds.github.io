@@ -20,7 +20,7 @@ cryptography into real-world cryptography](https://www.reddit.com/r/ethereum/com
 
 I enjoy writing about things because it [helps me to understand them better](https://twitter.com/benjaminion_xyz/status/1368267425309933573).
 
-Also, I very much believe in the power of innovation --- rational optimism is the way out. Having a vision 
+Also, I believe that rational optimism is the way out. Having a vision 
 is important. However, vision without action is useless. But action without vision is directionless.
 
 Contact: [miguelemospereira@gmail.com](mailto:miguelemospereira@gmail.com)
