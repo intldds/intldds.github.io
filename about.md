@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is [Waz](https://miguelemos.github.io/) and I love to learn and to build (especially on Ethereum/web3).
+My name is Waz and I love to learn and to build (especially on Ethereum/web3).
 
 I think the whole DeFi movement is really great, but this blog will be more about the
 [things that matter outside of DeFi](https://www.youtube.com/watch?v=oLsb7clrXMQ),
@@ -24,3 +24,5 @@ Also, I believe that rational optimism is the way out. Having a vision
 is important. However, vision without action is useless. But action without vision is directionless.
 
 Contact: [hello@wazowski.xyz](mailto:hello@wazowski.xyz)
+
+[comment]: <> (Add personal website after Waz)
