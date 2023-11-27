@@ -10,8 +10,8 @@ I think the whole DeFi movement is really great, but this blog will be more abou
 [things that matter outside of DeFi](https://www.youtube.com/watch?v=oLsb7clrXMQ),
 such as decentralized governance, public goods and mechanism design.
 
-Currently, I'm very much into OSS, fully on-chain games ([AWs](https://aw.network/)) and zero knowledge technology -- basically, 
-applied R&D and [programmable cryptography](https://www.youtube.com/watch?v=qAfprVCBhdQ&t).
+Currently, I'm very much into OSS, especially PCD (eg. [Zupass](https://zupass.org/)) and 
+[programmable cryptography](https://www.youtube.com/watch?v=qAfprVCBhdQ&t) (zkSNARKS, 2PC/MPC, FHE, witness encryption).
 
 As Justin Drake said, the future of cryptoeconomics is bright and [Ethereum is a machine for turning applied 
 cryptography into real-world cryptography](https://www.reddit.com/r/ethereum/comments/o4unlp/ama_we_are_the_efs_research_team_pt_6_23_june_2021/h2ric0r/?utm_source=share&utm_medium=web2x&context=3).
