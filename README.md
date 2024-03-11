@@ -12,10 +12,13 @@ Over time - and with [quantum computing approaching](https://www.forbes.com/site
 
 You can visit the theme preview and its instructions [here](https://jekyll.github.io/minima/).
 
-## Contributing
+Bug reports and pull requests are welcome on GitHub at https://github.com/jekyll/minima.
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/jekyll/minima. 
+## Development
 
+To test your theme, run `script/server` (or `bundle exec jekyll serve`) and open your browser at http://localhost:4000. 
+This starts a Jekyll server using your theme and the contents. As you make modifications, your site will regenerate and you 
+should see the changes in the browser after a refresh.
 
 ## License
 
