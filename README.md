@@ -1,10 +1,9 @@
 # About this blog
 
-"Scribblings by Waz" is a [personal blog](https://intldds.github.io/) in which I'll cover many topics related to Ethereum and blockchain 
-technology, with a special emphasis on cryptoeconomics, mechanism design, smart contract security and
-zero-knowledge proofs (ZKPs).
+**"Scribblings by Waz"** is a personal blog in which I'll write about topics that I'm interested in.
 
-Over time - and with [quantum computing approaching](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/04/28/when-will-quantum-computers-impact-our-day-to-day/?sh=354368c243d9) - I expect to cover some more advanced cryptography concepts and tools (as mentioned in the [Ethereum roadmap](https://twitter.com/VitalikButerin/status/1333922620857745408)).
+I'm currently interested in Ethereum, **applied/programmable cryptography** and in making the internet a more
+interoperable place.
 
 ## minima
 
