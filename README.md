@@ -2,7 +2,7 @@
 
 **"Scribblings by Waz"** is a personal blog in which I'll write about topics that I'm interested in.
 
-I'm currently interested in Ethereum, **applied/programmable cryptography** and in making the internet a more
+I'm currently interested in Ethereum, programmable cryptography and in making the internet a more
 interoperable place.
 
 ## minima
